@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=r)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=for-the-badge&logo=scala)
-![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=fr-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=for-the-badge&logo=apachehadoop)
 ![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachespark)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
