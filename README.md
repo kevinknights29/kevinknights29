@@ -14,7 +14,7 @@
 - ### 🧠 I’m currently learning about Big Data Tools, Data Engineer Tools, and Cloud.
 - ### 📈 I’m looking to enhance my Statistic and Data Exploration Techniques.
 - ### 🥅 2022 Goals: Contribute more to Open Source projects
-- ### 📚 Fun fact: I love to read books and watch Netflix's documentaries.]
+- ### 📚 Fun fact: I love to read books and watch Netflix's documentaries.
 
 <br />
 
