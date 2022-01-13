@@ -14,7 +14,7 @@
 - ### 🧠 I’m currently learning about Big Data Tools, Data Engineer Tools, and Cloud.
 - ### 📈 I’m looking to enhance my Statistic and Data Exploration Techniques.
 - ### 🥅 2022 Goals: Contribute more to Open Source projects
-- ### 📚 Fun fact: I love to read books and watch Netflix's documentaries.]
+- ### 📚 Fun fact: I love to read books and watch Netflix's documentaries.
 
 <br />
 
@@ -37,5 +37,5 @@
 
 - ### [Micrsoft Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/1593161f-d719-4f80-b186-7ccf876d3a32)
 - ### [Microsoft AI Fundamentals (AI-900)](https://www.credly.com/earner/earned/badge/a93f30ad-ca7a-42e8-96b9-e42e30a69215)
-- ### [Microsoft Data Fundamentals (DP-900)]()
+- ### [Microsoft Data Fundamentals (DP-900)](https://www.credly.com/badges/66eb11fd-11d5-458d-8671-325357dfad9f)
 <br />
