@@ -1,4 +1,6 @@
-# Hi there, I'm Kevin K. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# 🤖 Kevin Knights
+
+**`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearless-ness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
 
 ### I'm a Data Engineer passionate about all Data Related things.
 
