@@ -10,25 +10,16 @@ Throughout my career, I have consistently demonstrated my ability to transform c
 
 Fluent in English, Spanish, and Portuguese, I possess excellent communication and leadership skills, allowing me to effectively collaborate with diverse teams and stakeholders.
 
-I am eager to apply my technical expertise, analytical prowess, and leadership skills to a Software Engineer, Data Engineer, or Machine Learning Engineer role at a top-tier company. Let's connect and discuss how my experience aligns with your organization's goals. 
+I am eager to apply my technical expertise, analytical prowess, and leadership skills to a Software Engineer, Data Engineer, or Machine Learning Engineer role at a top-tier company. Let's connect and discuss how my experience aligns with your organization's goals.
 
 Feel free to explore my GitHub projects to gain further insight into my capabilities. Together, we can make a significant impact through data-driven decision-making and business growth.
 
-## 📬 Get in touch!
+## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-Kevin%20Knights-blue?logo=linkedin)](https://www.linkedin.com/in/knightsk/)
 [![Gmail](https://img.shields.io/badge/-kevin.k.knights-white?logo=gmail)](mailto:kevin.k.knights@gmail.com)
-<br />
 
-- ### 🤖 I'm currently working on projects using Data Pipelines, Data Warehouses, and Distributed Systems.
-- ### 🧠 I’m currently learning about Big Data Tools, Cloud, and Large Language Models (LLMs).
-- ### 📈 I’m looking to enhance my data engineering skills as well as expanding my knowledge in fields like Machine Learning.
-- ### 🥅 Short Term Goals: Contribute more to Open Source projects
-- ### 📚 Fun fact: I love dogs, and have a chihuahua named Paul 🐶.
-
-<br />
-
-## Languages and Tools:
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=r)
@@ -41,13 +32,20 @@ Feel free to explore my GitHub projects to gain further insight into my capabili
 ![GCP](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=googlecloud)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
-<br />
+## Profile Stats
 
-## Professional Certificates:
+[![Kevin Knights's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinknights29&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Professional Certificates
 
 - ### [Micrsoft Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/1593161f-d719-4f80-b186-7ccf876d3a32)
+
 - ### [Microsoft AI Fundamentals (AI-900)](https://www.credly.com/earner/earned/badge/a93f30ad-ca7a-42e8-96b9-e42e30a69215)
+
 - ### [Microsoft Data Fundamentals (DP-900)](https://www.credly.com/badges/66eb11fd-11d5-458d-8671-325357dfad9f)
+
 - ### [Microsoft Power Bi Data Analyst Associate (PL-300)](https://www.credly.com/earner/earned/badge/325ad30d-5034-4922-8d57-b2b33f6faf34)
+
 - ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
-<br />
+
+#### Full Creadly profile at: [Kevin Knights](https://www.credly.com/earner/earned)
