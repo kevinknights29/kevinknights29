@@ -2,17 +2,11 @@
 
 **`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearless-ness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
 
-I'm a passionate and highly skilled Data Professional specializing in Python development, Data Engineering, and Cloud. With a constant thirst for knowledge and a drive to excel, my GitHub profile showcases my dedication to learning and exploring new technologies.
+I'm a passionate and highly skilled Data Professional specializing in Python development, Data Engineering, and Cloud. My GitHub profile reflects my dedication to learning and exploring new technologies as I strive for excellence.
 
-My expertise lies in building efficient and scalable data pipelines, leveraging tools such as Python, Docker, Spark, and Airflow. I am certified in Microsoft Azure (Fundamentals, AI, Data), Power BI Data Analyst, and Databricks Data Engineer Associate bringing a disciplined and innovative approach to technical problem-solving.
+With expertise in building efficient and scalable data pipelines using tools like Python, Docker, Spark, and Airflow, I bring a disciplined and innovative approach to technical problem-solving.
 
-Throughout my career, I have consistently demonstrated my ability to transform complex data into actionable business insights. I excel in developing solutions that optimize processes, automate manual tasks, and deliver measurable results.
-
-Fluent in English, Spanish, and Portuguese, I possess excellent communication and leadership skills, allowing me to effectively collaborate with diverse teams and stakeholders.
-
-I am eager to apply my technical expertise, analytical prowess, and leadership skills to a Software Engineer, Data Engineer, or Machine Learning Engineer role at a top-tier company. Let's connect and discuss how my experience aligns with your organization's goals.
-
-Feel free to explore my GitHub projects to gain further insight into my capabilities. Together, we can make a significant impact through data-driven decision-making and business growth.
+Let's get in touch to discuss how my experience aligns with your organization's goals. Explore my GitHub projects to gain further insight into my capabilities. Together, we can make a significant impact through data-driven decision-making and business growth.
 
 ## 📬 Get in touch
 
