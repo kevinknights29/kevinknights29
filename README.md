@@ -2,7 +2,9 @@
 
 **`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearless-ness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
 
-### I'm a Data Engineer passionate about all Data Related things.
+I'm passionate about technology and love to learn new things. My GitHub, is a reflection of the pursuit of exposing myself to new concepts, tools, learnings and challenges to continue to build and refine my skillset in order to drive value and results.
+
+I'm currently a Data Engineer, in charge of building efficient and scalable data pipelines. In the furue, I would like to be a Machine Learning Engineer.  
 
 <br />
 
