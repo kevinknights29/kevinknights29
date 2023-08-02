@@ -40,6 +40,8 @@ Let's get in touch to discuss how my experience aligns with your organization's 
 
 - ### [Microsoft Power Bi Data Analyst Associate (PL-300)](https://www.credly.com/earner/earned/badge/325ad30d-5034-4922-8d57-b2b33f6faf34)
 
+- ### [Dell Technologies Data Science & Data Engineering Specialist](https://www.credly.com/badges/2bfd8870-e2c9-45a4-8b84-44b11bb957d9)
+
 - ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
 
 #### Full Creadly profile at: [Kevin Knights](https://www.credly.com/earner/earned)
