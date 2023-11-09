@@ -56,4 +56,4 @@ Together, we can harness the potential of AI to redefine industry standards and 
 
 - ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
 
-#### Full Creadly profile at: [Kevin Knights](https://www.credly.com/earner/earned)
+#### Full Creadly profile at: [Kevin Knights](https://www.credly.com/users/kevin-knights)
