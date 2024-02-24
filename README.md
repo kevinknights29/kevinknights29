@@ -1,6 +1,6 @@
 # 🤖 Kevin Knights
 
-**`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearless-ness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
+**`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearlessness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
 
 I am an ML Engineer with a zeal for crafting AI products that drive progress. My expertise lies in Python, machine learning algorithms, and predictive analytics, underpinned by robust data engineering and cloud technologies. This GitHub space showcases my commitment to innovation and the power of AI.
 
@@ -44,7 +44,7 @@ Together, we can harness the potential of AI to redefine industry standards and 
 
 ## Professional Certificates
 
-- ### [Micrsoft Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/1593161f-d719-4f80-b186-7ccf876d3a32)
+- ### [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/1593161f-d719-4f80-b186-7ccf876d3a32)
 
 - ### [Microsoft AI Fundamentals (AI-900)](https://www.credly.com/earner/earned/badge/a93f30ad-ca7a-42e8-96b9-e42e30a69215)
 
@@ -56,4 +56,4 @@ Together, we can harness the potential of AI to redefine industry standards and 
 
 - ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
 
-#### Full Creadly profile at: [Kevin Knights](https://www.credly.com/users/kevin-knights)
+#### Full Creadly profile at [Kevin Knights](https://www.credly.com/users/kevin-knights)
