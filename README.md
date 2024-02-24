@@ -56,4 +56,6 @@ Together, we can harness the potential of AI to redefine industry standards and 
 
 - ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
 
+- ### [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/earner/earned/badge/0fdb191d-70d7-437a-aae3-2e8e920d23f4)
+
 #### Full Creadly profile at [Kevin Knights](https://www.credly.com/users/kevin-knights)
