@@ -1,5 +1,7 @@
 # 🤖 Kevin Knights
 
+![](https://komarev.com/ghpvc/?username=kevinknights29&abbreviated=true)
+
 **`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearlessness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
 
 I am an ML Engineer with a zeal for crafting AI products that drive progress. My expertise lies in Python, machine learning algorithms, and predictive analytics, underpinned by robust data engineering and cloud technologies. This GitHub space showcases my commitment to innovation and the power of AI.
