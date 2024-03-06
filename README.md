@@ -1,18 +1,12 @@
-# 🤖 Kevin Knights
+# Kevin Knights | Machine Learning Engineer 🤖
 
-Hello! I’m a Machine Learning Engineer deeply involved in Data, AI, and GenAI projects for the past four years, where I've played a pivotal role in generating over $100 million in revenue through automation and strategic AI initiatives. This work has not only freed up more than 100 hours of resources but also positioned me as a key contributor in transforming organizations into data-driven entities.
+Hello! I’m a Machine Learning Engineer deeply involved in Data, AI, and GenAI projects for the past five years, where I've played a pivotal role in generating over $100 million in revenue through automation and strategic AI initiatives. This work has not only freed up more than 100 hours of resources but also positioned me as a key contributor in transforming organizations into data-driven entities.
 
 My journey began in Electromechanical Engineering, where my fascination with the AI landscape took root during my final university years. This passion led me to pursue several prestigious AI certifications and training programs from institutions such as Stanford, Microsoft, and Databricks. I've also embraced the role of educator and influencer in the AI space, serving as a Microsoft Certified Trainer and keynote speaker at various conferences. My commitment to mentoring has helped over 100 individuals advance their careers in AI.
 
 In my current role, I spearhead the deployment of Large Language Models (LLMs) to harness growth signals from external data sources like news, earnings transcripts, and social media. My work enables the business to make swift, informed decisions and create unparalleled customer experiences by leveraging our AI/ML capabilities.
 
 Beyond my professional endeavors, I'm deeply engaged in the AI community, contributing to forums, participating in hackathons, and continuously exploring new technologies to stay at the forefront of the AI revolution.
-
----
-
-**`"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearlessness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free." - Epictetus.`**
-
----
 
 ## 📬 Get in touch
 
@@ -67,3 +61,7 @@ Beyond my professional endeavors, I'm deeply engaged in the AI community, contri
 - ### [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/earner/earned/badge/0fdb191d-70d7-437a-aae3-2e8e920d23f4)
 
 #### Full Creadly profile at [Kevin Knights](https://www.credly.com/users/kevin-knights)
+
+---
+
+*"What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated——tranquillity, fearlessness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free."* ~ Epictetus.
