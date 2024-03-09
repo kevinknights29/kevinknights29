@@ -18,10 +18,15 @@ Beyond my professional endeavors, I'm deeply engaged in the AI community, contri
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=r)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=for-the-badge&logo=scala)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
 
 ### Technologies
 
