@@ -13,33 +13,68 @@ Beyond my professional endeavors, I'm deeply engaged in the AI community, contri
 [![LinkedIn](https://img.shields.io/badge/-Kevin%20Knights-blue?logo=linkedin)](https://www.linkedin.com/in/knightsk/)
 [![Gmail](https://img.shields.io/badge/-kevin.k.knights-white?logo=gmail)](mailto:kevin.k.knights@gmail.com)
 
-## Languages and Technologies
+## Skills and Technologies
 
-### Programming Languages
+### Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras)
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=for-the-badge&logo=mlflow)
+![Feast](https://img.shields.io/badge/-Feast-black?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/-Transformers-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![Apache Mahout](https://img.shields.io/badge/-Apache%20Mahout-black?style=for-the-badge&logo=apache)
+
+### Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow)
+![Polars](https://img.shields.io/badge/-Polars-black?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachespark)
+![Hive](https://img.shields.io/badge/-Hive-black?style=for-the-badge&logo=apachehive)
+![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=databricks)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![GreenPlum](https://img.shields.io/badge/-GreenPlum-black?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/-DuckDB-black?style=for-the-badge)
+![PGVector](https://img.shields.io/badge/-PGVector-black?style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis)
+
+### Data Science
+
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=r)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-black?style=for-the-badge&logo=scipy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=for-the-badge&logo=scikit-learn)
+![Power Bi](https://img.shields.io/badge/-Power%20Bi-black?style=for-the-badge&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge)
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda)
+![Mamba](https://img.shields.io/badge/-Mamba-black?style=for-the-badge)
+
+### Software Engineering
+
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
-![Scala](https://img.shields.io/badge/-Scala-black?style=for-the-badge&logo=scala)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
+![Scala](https://img.shields.io/badge/-Scala-black?style=for-the-badge&logo=scala)
 
-### Technologies
+### CI, Monitoring, and Infrastructure
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
-![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=for-the-badge&logo=apachehadoop)
-![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachespark)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=for-the-badge&logo=prometheus)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=googlecloud)
-![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=databricks)
 
 ## Profile Stats
 
