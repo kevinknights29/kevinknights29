@@ -4,7 +4,7 @@ Hello! I’m a **Machine Learning Engineer** deeply involved in **Data, AI, and 
 
 My journey began in **Electromechanical Engineering**, where my fascination with the AI landscape took root during my final university years. This passion led me to pursue several prestigious AI certifications and training programs from institutions such as **Stanford, Microsoft, and Databricks**. I've also embraced the role of educator and influencer in the AI space, serving as a **Microsoft Certified Trainer** and keynote **speaker** at various conferences. My commitment to mentoring has helped over **100 individuals** advance their careers in AI.
 
-In my current role, I spearhead the deployment of **Large Language Models (LLMs)** to harness growth signals from external data sources like news, earnings transcripts, and social media. My work enables the business to make swift, **informed decisions** and create unparalleled customer experiences by leveraging our **AI/ML capabilities**.
+In my current role, I spearhead the deployment of **Machine Learning Models** and **Large Language Models (LLMs)** applications to drive company-wide innovation. My work enables the business to **leverage AI/ML capabilities** and improve the bottom line's growth.
 
 Beyond my professional endeavors, I'm deeply engaged in the AI community, contributing to forums, participating in hackathons, and continuously exploring new technologies to stay at the forefront of the AI revolution.
 
