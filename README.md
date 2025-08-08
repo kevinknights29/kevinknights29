@@ -1,6 +1,10 @@
 # Kevin Knights | Machine Learning Engineer 🤖
 
-Hello! **Machine Learning Engineer** with 5+ years of experience building scalable AI/ML systems. Exploring High-Performance Computing to solve complex problems with highly optimized computational algorithms and simulations.
+Hello! I'm Kevin, a **Machine Learning Engineer** with 5+ years of experience building scalable AI/ML systems. 
+
+Exploring High-Performance Computing to solve complex problems with highly optimized computational algorithms and simulations.
+
+Originally from Panama City, Panama, now living in Dublin, Ireland.
 
 Beyond my work/studies, I like to engage in the communities, contributing to forums, participating in hackathons, and continuously exploring new technologies and practical applications.
 
