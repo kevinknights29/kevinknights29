@@ -1,43 +1,52 @@
-# Kevin Knights | Machine Learning Engineer 🤖
+# Kevin Knights
 
-Hello! I'm Kevin, a **Machine Learning Engineer** with 5+ years of experience building scalable AI/ML systems. 
+### Computational Mathematics & Scientific Computing
 
-Exploring High-Performance Computing to solve complex problems with highly optimized computational algorithms and simulations.
+I build high-performance numerical software for mathematically demanding problems.
 
-Originally from Panama City, Panama, now living in Dublin, Ireland.
+I am completing an MSc in **High-Performance Computing (Computational Mathematics)** at Trinity College Dublin’s School of Mathematics. My current interests include numerical linear algebra, sparse linear system solvers, Krylov subspace methods, and GPU-accelerated scientific computing.
 
-Beyond my work/studies, I like to engage in the communities, contributing to forums, participating in hackathons, and continuously exploring new technologies and practical applications.
+Before specializing in computational mathematics, I spent five years building production machine learning and data systems at Dell Technologies and AES. That experience shaped how I approach research software: mathematical ideas should lead to efficient, reliable implementations that work at realistic scale.
 
-## 📬 Get in touch
+## Research
 
-[![LinkedIn](https://img.shields.io/badge/-Kevin%20Knights-blue?logo=linkedin)](https://www.linkedin.com/in/knightsk/)
-[![Gmail](https://img.shields.io/badge/-kevin.k.knights-white?logo=gmail)](mailto:kevin.k.knights@gmail.com)
+### [Communication-Avoiding Krylov Exponential Integration for Multi-GPU Option Pricing](https://github.com/kevinknights29/caksm)
 
-## Profile Stats
+My MSc thesis, supervised by **Prof. Kirk M. Soodhalter**, investigates when communication-avoiding Krylov methods can outperform conventional approaches in distributed multi-GPU environments.
 
-[![Kevin Knights's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinknights29&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+The principal contribution is a **dimensionless regime map** that predicts whether communication avoidance should pay on a given machine using problem parameters and independently calibrated machine constants—before running the full implementation.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevinknights29&theme=dark)](https://git.io/streak-stats)
+The model correctly predicted:
 
-![](https://komarev.com/ghpvc/?username=kevinknights29&abbreviated=true)
+- No benefit on a single-NUMA-node CPU
+- A benefit across four NVIDIA V100 GPUs on two nodes
+- A **1.78–1.80x speedup** over an equal-work control
 
-## Professional Certificates
+## Research interests
 
-- ### [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/earner/earned/badge/1593161f-d719-4f80-b186-7ccf876d3a32)
+- Numerical linear algebra
+- Sparse linear system solvers
+- Krylov subspace methods
+- Matrix functions and exponential integrators
+- GPU and multi-GPU computing
+- Communication-avoiding algorithms
+- Performance modeling and optimization
+- Numerical methods for computational finance
+- Efficient training and inference of machine learning models
 
-- ### [Microsoft AI Fundamentals (AI-900)](https://www.credly.com/earner/earned/badge/a93f30ad-ca7a-42e8-96b9-e42e30a69215)
+## Technical focus
 
-- ### [Microsoft Data Fundamentals (DP-900)](https://www.credly.com/badges/66eb11fd-11d5-458d-8671-325357dfad9f)
+- **Languages:** Python and C++
+- **Parallel computing:** CUDA, MPI, OpenMP, and NCCL
+- **Scientific computing:** numerical simulation, sparse linear algebra, and performance analysis
+- **Machine learning:** production ML systems, model deployment, distributed data processing, and inference optimization
 
-- ### [Microsoft Power Bi Data Analyst Associate (PL-300)](https://www.credly.com/earner/earned/badge/325ad30d-5034-4922-8d57-b2b33f6faf34)
+## Connect
 
-- ### [Dell Technologies Data Science & Data Engineering Specialist](https://www.credly.com/badges/2bfd8870-e2c9-45a4-8b84-44b11bb957d9)
+I am interested in research and engineering conversations at the intersection of mathematics, high-performance computing, and machine learning.
 
-- ### [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/30eb8649-c06d-4bda-963c-62092e3e8c9d#gs.2lbt5n)
-
-- ### [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/earner/earned/badge/0fdb191d-70d7-437a-aae3-2e8e920d23f4)
-
-#### Full Creadly profile at [Kevin Knights](https://www.credly.com/users/kevin-knights)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Knights-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinknights/)
+[![Email](https://img.shields.io/badge/Email-kevin.k.knights%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:kevin.k.knights@gmail.com)
 
 ---
 
